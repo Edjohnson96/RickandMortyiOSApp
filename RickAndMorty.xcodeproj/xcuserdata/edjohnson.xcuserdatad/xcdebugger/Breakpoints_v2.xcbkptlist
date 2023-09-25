@@ -18,6 +18,53 @@
             endingLineNumber = "29"
             landmarkName = "urlString"
             landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "30701E57-7663-4A53-AF58-19BE2CA4A82F - c381404b0ea570ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickAndMorty.RMRequest.urlString.getter : Swift.String"
+                  moduleName = "RickAndMorty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edjohnson/Desktop/iosApp/RickAndMorty/RickAndMorty/APIClient/RMRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "137">
+               </Location>
+               <Location
+                  uuid = "30701E57-7663-4A53-AF58-19BE2CA4A82F - c381404b0ea57332"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickAndMorty.RMRequest.urlString.getter : Swift.String"
+                  moduleName = "RickAndMorty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edjohnson/Desktop/iosApp/RickAndMorty/RickAndMorty/APIClient/RMRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "403">
+               </Location>
+               <Location
+                  uuid = "30701E57-7663-4A53-AF58-19BE2CA4A82F - 76c183ea1b32a0f8"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in RickAndMorty.RMRequest.urlString.getter : Swift.String"
+                  moduleName = "RickAndMorty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edjohnson/Desktop/iosApp/RickAndMorty/RickAndMorty/APIClient/RMRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "69">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
